@@ -1,0 +1,4 @@
+class java/util/Collection
+equals
+ (Ljava/lang/Object;)Z
+ (L0java/lang/Object;)Z
